@@ -7,7 +7,7 @@ package newproyect;
 
 /**
  *
- * @author linux
+ * @author 
  */
 public class NewProyect {
 
