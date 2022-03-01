@@ -7,7 +7,7 @@ package newproyect;
 
 /**
  *
- * @author 
+ * @author buenas tardes
  */
 public class NewProyect {
 
